@@ -1,0 +1,124 @@
+/*
+ Theme Name:   Cargo Child
+ Theme URI:    http://cargo.bold-themes.com
+ Description:  Cargo Child Theme
+ Author:       BoldThemes
+ Author URI:   http://bold-themes.com
+ Template:     cargo
+ Version:      1.0.4
+ Tags:         one-column, right-sidebar, fluid-layout, responsive-layout, custom-menu, featured-images, sticky-post, theme-options, threaded-comments, translation-ready
+ Text Domain:  cargo_child
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+/* Header */
+.page-id-1041 .topBar .btIco .btIcoHolder:before {
+  color: #fff;
+}
+.topBar .btIco {
+  padding-top: 7px;
+}
+.btMenuVerticalLeft.btMenuVerticalOn .topBar .ttRight {
+  padding-top: 0;
+}
+.btMenuVerticalLeft.btMenuVerticalOn .topBar .ttLeft .btIco {
+  width: auto;
+}
+@media only screen and (max-width: 768px) {
+  .topBar .btIco .btIcoHolder:before, .menuPort .topBarInMenu .btIco .btIcoHolder:before {
+    color: #08487e !important;
+  }
+  .wpml-ls-legacy-list-horizontal {
+    padding: 0;
+  }
+  .wpml-ls-legacy-list-horizontal>ul {
+    padding: 0 20px 0 10px !important;
+  }
+  .home .btVerticalMenuTrigger .btIcoHolder:before {
+    color: #fff;
+  }
+}
+
+/* Content */
+p {
+  font-size: 14px;
+}
+li {
+  font-size: 15px;
+  line-height: 23px;
+  font-weight: 400;
+}
+.single p {
+  font-size: 16px;
+  line-height: 27px;
+  text-align: justify;
+  font-weight: 400;
+}
+.single p a {
+  text-decoration: underline;
+}
+.single h2 {
+  font-size: 28px;
+  font-weight: 600;
+  padding-top: 7%;
+}
+.single h3 {
+  font-size: 24px;
+  font-weight: 600;
+  padding-top: 5%;
+}
+.single h2, .single h3, .single h4 {
+  text-transform: none;
+}
+.btLightSkin a {
+  color: #0B60A9;
+}
+.btLightSkin a:hover {
+  color: #333;
+}
+.gridItem .captionTxt:before, .gridItem .btTileBox .btShowTitle .btSubTitle, .gridItem .btTileBox .captionTxt .btSubTitle {
+  display: none;
+}
+.btSingleLatestPostContent .btSubTitle, .btSingleLatestPost .captionTxt:before, .btSingleLatestPost .btReadMore {
+  display: none;
+}
+.btSingleLatestPostWrapper {
+  padding-bottom: 0;
+}
+.btArticle .btSubTitle, .btCommentsRow {
+  display: none;
+}
+@media (min-width: 768px) and (max-width: 990px) {
+  #bt_section5c1b6f08b078d .boldRow.btTableRow .rowItem.col-sm-6 {
+    width: 25%;
+  }
+}
+.btArticle .headline {
+  text-transform: none;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 48px;
+}
+@media only screen and (max-width: 768px) {
+  .autoSliderHeight .slidedItem .btSliderPort {
+    padding: 50px 50px 50px 20px;
+  }
+  h2, .header.large h2 {
+    font-size: 32px;
+    line-height: 45px;
+  }
+  .mobile-space-bottom {
+    padding-bottom: 25px;
+  }
+  .btSiteFooter .menu, footer .btTextLeft .copyLine {
+    text-align: center !important;
+  }
+}
+.animated {
+  -webkit-transition: all 0.3s cubic-bezier(.190,1,.220,1);
+  -moz-transition: all 0.3s cubic-bezier(.190,1,.220,1);
+  transition: all 0.3s cubic-bezier(.190,1,.220,1);
+}

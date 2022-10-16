@@ -1,0 +1,91 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 16 Oct 2022 04:58:25 at https://www.deniint.com.mk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.deniint.com.mk/ -O1 "C:\10Intership\transport uuuu" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:00:40	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.deniint.com.mk/wp-content/themes/cargo/ (from https://www.deniint.com.mk/)
+05:00:41	Error: 	"Bad Request" (400) at link https://www.deniint.com.mk/wp-admin/admin-ajax.php (from https://www.deniint.com.mk/)
+05:03:41	Error: 	Exit requested by shell or user
+05:03:48	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.deniint.com.mk/wp-content/themes/cargo/ (from https://www.deniint.com.mk/)
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=58
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=58 to https://www.deniint.com.mk/za-nas/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=56
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=56 to https://www.deniint.com.mk/uslugi/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=2400
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=2400 to https://www.deniint.com.mk/uslugi/transport/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=2402
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=2402 to https://www.deniint.com.mk/uslugi/shpedicija/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=2404
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=2404 to https://www.deniint.com.mk/uslugi/javen-carinski-sklad/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=2405
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=2405 to https://www.deniint.com.mk/uslugi/autohof-001/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=2355
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=2355 to https://www.deniint.com.mk/terminal/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=2331
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=2331 to https://www.deniint.com.mk/magacinska-oprema/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=936
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=936 to https://www.deniint.com.mk/blog/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=62
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=62 to https://www.deniint.com.mk/kontakt/
+05:03:48	Warning: 	Moved Permanently for https://www.deniint.com.mk/?p=3465
+05:03:48	Warning: 	File has moved from https://www.deniint.com.mk/?p=3465 to https://www.deniint.com.mk/warehouse-solutions-how-to-maximize-warehouse-space-utilization/
+05:03:48	Warning: 	File not added due to mirror cancel: www.deniint.com.mk/robots.txt
+05:03:48	Warning: 	Moved Permanently for www.deniint.com.mk/what-is-multimodal-transportation/
+05:03:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/what-is-multimodal-transportation/ and https://www.deniint.com.mk/what-is-multimodal-transportation/
+05:03:48	Warning: 	File has moved from www.deniint.com.mk/what-is-multimodal-transportation/ to https://www.deniint.com.mk/what-is-multimodal-transportation/
+05:03:48	Warning: 	Moved Permanently for www.deniint.com.mk/what-is-intermodal-freight-transportation/
+05:03:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/what-is-intermodal-freight-transportation/ and https://www.deniint.com.mk/what-is-intermodal-freight-transportation/
+05:03:48	Warning: 	File has moved from www.deniint.com.mk/what-is-intermodal-freight-transportation/ to https://www.deniint.com.mk/what-is-intermodal-freight-transportation/
+05:03:48	Warning: 	Moved Permanently for www.deniint.com.mk/complete-guide-how-to-choose-the-right-forklift-for-your-warehouse/
+05:03:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/complete-guide-how-to-choose-the-right-forklift-for-your-warehouse/ and https://www.deniint.com.mk/complete-guide-how-to-choose-the-right-forklift-for-your-warehouse/
+05:03:48	Warning: 	File has moved from www.deniint.com.mk/complete-guide-how-to-choose-the-right-forklift-for-your-warehouse/ to https://www.deniint.com.mk/complete-guide-how-to-choose-the-right-forklift-for-your-warehouse/
+05:03:48	Warning: 	Moved Permanently for www.deniint.com.mk/increase-warehouse-efficiency-with-a-good-warehouse-equipment/
+05:03:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/increase-warehouse-efficiency-with-a-good-warehouse-equipment/ and https://www.deniint.com.mk/increase-warehouse-efficiency-with-a-good-warehouse-equipment/
+05:03:48	Warning: 	File has moved from www.deniint.com.mk/increase-warehouse-efficiency-with-a-good-warehouse-equipment/ to https://www.deniint.com.mk/increase-warehouse-efficiency-with-a-good-warehouse-equipment/
+05:03:48	Warning: 	Moved Permanently for www.deniint.com.mk/from-seller-to-destination-port-transportation-process-explained/
+05:03:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/from-seller-to-destination-port-transportation-process-explained/ and https://www.deniint.com.mk/from-seller-to-destination-port-transportation-process-explained/
+05:03:48	Warning: 	File has moved from www.deniint.com.mk/from-seller-to-destination-port-transportation-process-explained/ to https://www.deniint.com.mk/from-seller-to-destination-port-transportation-process-explained/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/discover-6-types-of-road-cargo-transportation/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/discover-6-types-of-road-cargo-transportation/ and https://www.deniint.com.mk/discover-6-types-of-road-cargo-transportation/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/discover-6-types-of-road-cargo-transportation/ to https://www.deniint.com.mk/discover-6-types-of-road-cargo-transportation/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/avoid-damaged-goods-make-sure-your-supplier-use-proper-packaging/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/avoid-damaged-goods-make-sure-your-supplier-use-proper-packaging/ and https://www.deniint.com.mk/avoid-damaged-goods-make-sure-your-supplier-use-proper-packaging/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/avoid-damaged-goods-make-sure-your-supplier-use-proper-packaging/ to https://www.deniint.com.mk/avoid-damaged-goods-make-sure-your-supplier-use-proper-packaging/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/freight-shipping-everything-you-need-to-know-about/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/freight-shipping-everything-you-need-to-know-about/ and https://www.deniint.com.mk/freight-shipping-everything-you-need-to-know-about/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/freight-shipping-everything-you-need-to-know-about/ to https://www.deniint.com.mk/freight-shipping-everything-you-need-to-know-about/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/ultimate-guide-5-most-important-roles-in-international-transportation/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/ultimate-guide-5-most-important-roles-in-international-transportation/ and https://www.deniint.com.mk/ultimate-guide-5-most-important-roles-in-international-transportation/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/ultimate-guide-5-most-important-roles-in-international-transportation/ to https://www.deniint.com.mk/ultimate-guide-5-most-important-roles-in-international-transportation/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/trucking-company-solutions-better-customer-service-with-gps-fleet-tracking/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/trucking-company-solutions-better-customer-service-with-gps-fleet-tracking/ and https://www.deniint.com.mk/trucking-company-solutions-better-customer-service-with-gps-fleet-tracking/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/trucking-company-solutions-better-customer-service-with-gps-fleet-tracking/ to https://www.deniint.com.mk/trucking-company-solutions-better-customer-service-with-gps-fleet-tracking/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/express-delivery-most-important-transportation-service-for-efficient-business/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/express-delivery-most-important-transportation-service-for-efficient-business/ and https://www.deniint.com.mk/express-delivery-most-important-transportation-service-for-efficient-business/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/express-delivery-most-important-transportation-service-for-efficient-business/ to https://www.deniint.com.mk/express-delivery-most-important-transportation-service-for-efficient-business/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/top-5-trucking-companies-solutions-that-customers-are-looking-for/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/top-5-trucking-companies-solutions-that-customers-are-looking-for/ and https://www.deniint.com.mk/top-5-trucking-companies-solutions-that-customers-are-looking-for/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/top-5-trucking-companies-solutions-that-customers-are-looking-for/ to https://www.deniint.com.mk/top-5-trucking-companies-solutions-that-customers-are-looking-for/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/4-advantages-of-door-to-door-delivery/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/4-advantages-of-door-to-door-delivery/ and https://www.deniint.com.mk/4-advantages-of-door-to-door-delivery/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/4-advantages-of-door-to-door-delivery/ to https://www.deniint.com.mk/4-advantages-of-door-to-door-delivery/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/ultimate-guide-transport-of-dangerous-goods-and-hazardous-materials/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/ultimate-guide-transport-of-dangerous-goods-and-hazardous-materials/ and https://www.deniint.com.mk/ultimate-guide-transport-of-dangerous-goods-and-hazardous-materials/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/ultimate-guide-transport-of-dangerous-goods-and-hazardous-materials/ to https://www.deniint.com.mk/ultimate-guide-transport-of-dangerous-goods-and-hazardous-materials/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/from-destination-port-to-buyer-transportation-process-explained/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/from-destination-port-to-buyer-transportation-process-explained/ and https://www.deniint.com.mk/from-destination-port-to-buyer-transportation-process-explained/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/from-destination-port-to-buyer-transportation-process-explained/ to https://www.deniint.com.mk/from-destination-port-to-buyer-transportation-process-explained/
+05:03:49	Warning: 	Moved Permanently for www.deniint.com.mk/5-tips-to-find-the-best-trucking-company-in-europe/
+05:03:49	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/5-tips-to-find-the-best-trucking-company-in-europe/ and https://www.deniint.com.mk/5-tips-to-find-the-best-trucking-company-in-europe/
+05:03:49	Warning: 	File has moved from www.deniint.com.mk/5-tips-to-find-the-best-trucking-company-in-europe/ to https://www.deniint.com.mk/5-tips-to-find-the-best-trucking-company-in-europe/
+05:03:55	Warning: 	Moved Permanently for www.deniint.com.mk/how-to-identify-the-best-local-delivery-company/
+05:03:55	Warning: 	Redirected link is identical because of 'URL Hack' option: www.deniint.com.mk/how-to-identify-the-best-local-delivery-company/ and https://www.deniint.com.mk/how-to-identify-the-best-local-delivery-company/
+05:03:55	Warning: 	File has moved from www.deniint.com.mk/how-to-identify-the-best-local-delivery-company/ to https://www.deniint.com.mk/how-to-identify-the-best-local-delivery-company/
+05:03:55	Warning: 	File not added due to mirror cancel: https://www.deniint.com.mk/wp-content/themes/cargo/
+05:03:55	Error: 	"mirror stopped by user" (-1) at link https://www.deniint.com.mk/wp-content/themes/cargo/ (from https://www.deniint.com.mk/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 30 seconds : 289 links scanned, 255 files written (23346069 bytes overall) [12860887 bytes received at 38972 bytes/sec], 12847715 bytes transferred using HTTP compression in 168 files, ratio 17%, 6.4 requests per connection
+(3 errors, 77 warnings, 0 messages)
